@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/flutter-calculator-with-nodejs-backend-336513-336527/calculator_backend"
+}
